@@ -19,3 +19,4 @@ data/bluebook-for-bulldozers/
 *.parquet
 *__MACOSX*
 notebook-playground.ipynb
+.idea/
